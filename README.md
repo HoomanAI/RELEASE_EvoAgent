@@ -8,12 +8,6 @@ Unlike traditional evolutionary algorithms that rely on fixed parameter settings
 
 ![Demo](figures/EvoAgent_concept.gif)
 
-
-<p align="center">
- <img src="figures/RELEASE_QGA.png" width="700">
-</p>
-
-
 ---
 
 ## Overview
@@ -30,6 +24,9 @@ At each generation:
 
 The framework is designed to be independent of any specific evolutionary algorithm and can be integrated with a wide range of optimization methods.
 
+<p align="center">
+ <img src="figures/RELEASE_QGA.png" width="700">
+</p>
 ---
 
 ## Key Features
